@@ -1,6 +1,6 @@
 # Implementation of Q-Learning Control Algorithm using Gymnasium
-# Name:Kolluru Pujitha
-# Reg.no:212223240074
+# Name: Ekkaluri Mythri
+# Reg.no:212223240034
 
 ## Aim
 
